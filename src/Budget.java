@@ -80,46 +80,7 @@ public class Budget {
         this.fun = fun;
     }
 
-    // accessor methods - getters
-    public double getWage() {
-        return wage;
-    }
 
-    public void setWage(double wage) {
-        this.wage = wage;
-    }
-
-    public double getRent() {
-        return rent;
-    }
-
-    public void setRent(double rent) {
-        this.rent = rent;
-    }
-
-    public double getInternet() {
-        return internet;
-    }
-
-    public void setInternet(double internet) {
-        this.internet = internet;
-    }
-
-    public double getGrocery() {
-        return grocery;
-    }
-
-    public void setGrocery(double grocery) {
-        this.grocery = grocery;
-    }
-
-    public double getFun() {
-        return fun;
-    }
-
-    public void setFun(double fun) {
-        this.fun = fun;
-    }
 
 //    public void calcExpences(double wage, double rent, double internet, double grocery, double fun) {
 //        int monthlyExpences = (int) (rent + internet + grocery + fun);
